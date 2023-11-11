@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankita Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/QL1NAAFz3dpb5gFY9">
+<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/QL1NAAFz3dpb5gFY9](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXmPFVNdjNZ1zYOhXEW7DeerALcHvMGgDsJQ&usqp=CAU)">
 
 
 <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.baltana.com%2Fabstract%2Fcomputer-coding-hd-wallpaper-24750.html&psig=AOvVaw1wbjzl27jutLb698SMV9F3&ust=1699776932330000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDH3ePAu4IDFQAAAAAdAAAAABAD /"> </p>
